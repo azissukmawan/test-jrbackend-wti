@@ -31,9 +31,3 @@ public class main {
         }
     }
 }
-
-//  kompleksitas algoritma O(n2)
-//  runtime berjalan dalam waktu kuadrat
-//  jadi semakin besar data semakin tidak efisien algoritma nya
-//				 kumpulan data kecil = lumayan oke
-//				 kumpulan data besar = BURUK (jangan dipakai)
